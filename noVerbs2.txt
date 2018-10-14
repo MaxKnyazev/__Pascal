@@ -1,0 +1,4 @@
+класть;put;put;put;
+терять;lose;lost;lost;
+купить;buy;bought;bought;
+рассказывать;tell;told;told;
