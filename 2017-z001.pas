@@ -1,6 +1,6 @@
 Program z001_2017;
 
-{Сложение двух длинных чисел}
+{ Сложение двух длинных чисел }
 
 var numOne, numTwo : string;
     i, numRem, numResult : integer;
